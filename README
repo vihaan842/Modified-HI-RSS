@@ -1,0 +1,5 @@
+A modified version of the Hello Internet RSS feed
+The only differences are that:
+1) All episodes released (so far) have been added
+2) All enclosures now have type="audio/mpeg" (required for some podcast players)
+3) The xml file is formatted nicely
